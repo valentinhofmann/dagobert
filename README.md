@@ -7,7 +7,7 @@ derivationally complex words.
 
 # Dependencies
 
-The code requires `Python (>=3.6)`, `numpy (>=1.18)`, `torch (>=1.2)`, and `transformers (>=2.5)`.
+The code requires `Python>=3.6`, `numpy>=1.18`, `torch>=1.2`, and `transformers>=2.5`.
 
 # Data
 
