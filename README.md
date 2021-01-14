@@ -11,6 +11,12 @@ The code requires `Python>=3.6`, `numpy>=1.18`, `torch>=1.2`, and `transformers>
 
 # Data
 
+The data used for the experiments can be found in `data/filtered/`. 
+As described in the paper, we split all derivatives into 7 frequency bins.
+The file names indicate the lower frequency bounds of the bins.
+
+The specific splits into training, development, and test sets can be found in `data/final/`.
+
 # Usage
 
 To replicate the experiment on the best segmentation method, run the script `test_segmentation.sh` in `src/model/`.
