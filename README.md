@@ -11,11 +11,9 @@ The code requires `Python>=3.6`, `numpy>=1.18`, `torch>=1.2`, and `transformers>
 
 # Data
 
-The data used for the experiments can be found in `data/filtered/`. 
+The data used for the experiments can be found [here](http://cistern.cis.lmu.de/dagobert/). 
 As described in the paper, we split all derivatives into 7 frequency bins.
-The file names indicate the lower frequency bounds of the bins.
-
-The specific splits into training, development, and test sets can be found in `data/final/`.
+Please refer to the paper for details.
 
 # Usage
 
