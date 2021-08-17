@@ -42,5 +42,4 @@ If you use the code or data in this repository, please cite the following paper:
     booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
     year = {2020}
 }
-
 ```
